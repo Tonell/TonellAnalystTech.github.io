@@ -79,4 +79,4 @@ Group by Location, Population, date
 order by PercentPopulationInfected desc
 Conclusion:
 
-This Capstone project presented an in-depth visual analysis of Covid-19 data using Tableau and SQL Querivy. The visualizations provide valuable insights into the global impact of the pandemic, total deaths by location, and the locations with the highest infection rates. The data visualization helps to understand the severity of the Covid-19 pandemic and its distribution across different regions and countries.
+This Capstone project presented an in-depth visual analysis of Covid-19 data using Tableau and SQL. The visualizations provide valuable insights into the global impact of the pandemic, total deaths by location, and the locations with the highest infection rates. The data visualization helps to understand the severity of the Covid-19 pandemic and its distribution across different regions and countries.
